@@ -57,7 +57,7 @@
         a("footer-link")],1)},
         c=[],o=a("e956"),r=a("014c"),
         l={name:"PageIndex",data:function()
-        {return{roles:["Ready to Learn and work with You", "Full stack developer", "Data scientist", "Front End Developer","Backend developer"]}},
+        {return{roles:["Ready to Learn and work with You", "Full stack developer", "Data scientist", "Front End Developer","Backend developer","IOT Developer","Artificial Intelligence developer"]}},
         
         components:{VueTyper:o["VueTyper"],
         FooterLink:r["a"]}},s=l,i=(a("2470"),a("2877")),h=a("eebe"),
