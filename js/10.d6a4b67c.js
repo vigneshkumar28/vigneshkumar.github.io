@@ -19,18 +19,26 @@
         {name:"Interpersonal Skills",value:90}]},
         
         
-        {name:"Programming Languages",skills:[{name:"Javascript",value:90},{name:"Node.js",value:90},
-        {name:"HTML",value:90},{name:"CSS",value:90},
-        {name:"Java",value:80},{name:"Python",value:75},{name:"Go",value:20},{name:"C#",value:20}]},
+        {name:"Programming Languages",skills:[{name:"Java",value:80},{name:"C",value:80},{name:"C++",value:70},
+        {name:"Javascript",value:70},
+        {name:"Node.js",value:70},
+        {name:"HTML",value:60},{name:"CSS",value:60},
+        {name:"Python",value:40},
+        {name:"Go",value:20},{name:"C#",value:20}]
+    },
         
-        {name:"System Architectures",skills:[{name:"Microservices",value:90},
-        {name:"Service Oriented Architecture (SOA)",value:90},
-        {name:"Monolitic Architecture",value:90},{name:"3-Tier Architecture",value:90},{name:"N-Tier Architecture",value:90},
-        {name:"Service Orchestration / Choreography",value:80},{name:"Cloud Architectures",value:70},
-        {name:"Amazon Web Services (AWS)",value:80},{name:"Google Cloud Services (GCP)",value:50}]},
+        {name:"System Architectures",skills:[
+        //    {name:"Microservices",value:90},
+        //{name:"Service Oriented Architecture (SOA)",value:90},
+        //{name:"Monolitic Architecture",value:90},{name:"3-Tier Architecture",value:90},{name:"N-Tier Architecture",value:90},
+        //{name:"Service Orchestration / Choreography",value:80},{name:"Cloud Architectures",value:70},
+        {name:"Amazon Web Services (AWS)",value:60},{name:"Google Cloud Services (GCP)",value:80}]},
         
-        {name:"Frontend Frameworks",skills:[{name:"Vue",value:90},{name:"Angular 2+",value:90},{name:"React",value:50},{name:"Ember",value:40},
-        {name:"jQuery",value:90}]},{name:"Frontend UI/Component Frameworks",skills:[{name:"Quasar",value:90},{name:"Ionic 2",value:90},
+        {name:"Frontend Frameworks",skills:[{name:"Vue",value:90},{
+        name:"Angular 2+",value:90},{name:"React",value:50},{name:"Ember",value:40},
+        {name:"jQuery",value:90}]},
+        
+        /*{name:"Frontend UI/Component Frameworks",skills:[{name:"Quasar",value:90},{name:"Ionic 2",value:90},
         {name:"Ionic 3",value:90}]},{name:"Frontend Bundlers",skills:[{name:"Gulp",value:60},{name:"Webpack",value:90},
         {name:"Grunt",value:40}]},
         
@@ -38,7 +46,7 @@
         {name:"LESS",value:90},{name:"Stylus",value:90}]},
         
         {name:"Frontend Testing Frameworks",skills:[{name:"Mocha",value:80},{name:"Jasmine",value:60},
-        {name:"Cypress",value:90},{name:"Puppeteer",value:90}]},
+        {name:"Cypress",value:90},{name:"Puppeteer",value:90}]},*/
         
         {name:"Other Frontend Technologies",skills:[{name:"Typescript",value:90},{name:"D3",value:50},{name:"Cordova",value:60},{name:"ES Lint",value:75},{name:"ES6",value:90},
         {name:"npm",value:90},{name:"Yarn",value:90},{name:"Bootstrap",value:90},
@@ -65,7 +73,7 @@
         {name:"Spring Reactive",value:75},{name:"Django",value:50},{name:"UX / UI",value:90},{name:"Algorithms",value:90},
         {name:"Datastructures",value:90},{name:"Design Patterns",value:90},{name:"Data Science / Data Analytics",value:40},
         {name:"Machine Learning / AI",value:30},{name:"Microsoft Office (Excel, PPT, Word)",value:90},
-        {name:"Arduino / Raspberry Pi",value:90}]},
+        {name:"Arduino / Raspberry Pi",value:90},{name:"IBM Cloud",value:90},{name:"Watson platform",value:90}]},
         
         {name:"Non Technical Skills",
         skills:[{name:"Cooking / Baking",value:90},{name:"Painting / Sketching",value:90},
