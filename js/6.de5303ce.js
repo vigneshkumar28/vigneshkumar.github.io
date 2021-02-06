@@ -11,9 +11,9 @@
     e._v("He loves to "),a("i",[e._v("make people happy and being the reason for their smile (as described by his friends).")]),e._v(" "),
     a("i",[e._v("")]),e._v(" "),
     
-    e.is_personal?a("span",[e._v("")]):a("span",[e._v("")]),e._v(";\n "),a("i",[e._v("")]),e._v(""),
+    e.is_personal?a("span",[a("br"),a("br"),a("br"),e._v("   ")]):a("span",[e._v("")]),e._v("\n "),a("i",[e._v("")]),e._v(""),
     
-    e.is_personal?a("span",[e._v("He is also a "),a("i",[e._v("")]),e._v(" "),a("i",[e._v("")])]):e._e(),
+    e.is_personal?a("span",[e._v("\n   Favorite quotes "),a("i",[e._v("")]),e._v(" "),a("i",[e._v("")])]):e._e(),
     
     e.is_personal?a("span",[a("br"),e._v("\n "),a("br"),e._v("\n    ◉ "),
     a("i",{staticClass:"text-left",class:e.$q.dark.isActive?"text-white":"text-primary"},
@@ -26,7 +26,7 @@
     a("li",[e._v("Looking for jobs. Ready to start work immediately.🙋‍♂️👋👋👋")]),
     a("li",[e._v("Graduation: April 2021 (Available for internship and full time role: From January 2021). All semester exams are completed☀️ ")]),
     a("li",[e._v("Interested to start work in any domain and really interested to learn new technologies.😊😊😊 ")]),
-    a("li",[e._v("Completed 200+ courses🎯 in Object Oriented Programming (OOPS), Data Structures and Algorithms(DSA), Internet Of Things(IoT), Machine Learning, Artificial Intelligence, Data Science, Chat Bot creation and Certified by University of Washington, Stanford University, University of Michigan, University of California, Google, IBM, Udemy, Coursera, Lynda, LinkedIn Learning Networks, Cognitive class.")]),
+    a("li",[e._v("Completed numerous courses🎯 in Object Oriented Programming (OOPS), Data Structures and Algorithms(DSA), Internet Of Things(IoT), Machine Learning, Artificial Intelligence, Data Science, Chat Bot creation and Certified by University of Washington, Stanford University, University of Michigan, University of California, Google, IBM, Udemy, Coursera, Lynda, LinkedIn Learning Networks, Cognitive class.")]),
     a("li",[e._v("Good practical learner, passion to solving real world problems, helping others, techie updated.")]),
     a("li",[e._v("Some experience in HTML, CSS, JavaScript ( js ), Web Hosting and Deploying.")]),
     a("li",[e._v("Completed projects in IoT, Digital Image Processing, Full Stack Web Development, Embedded system, Artificial Intelligence and Data science.")]),
