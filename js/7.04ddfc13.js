@@ -49,7 +49,8 @@ i("q-item-label",{class:t.$q.dark.isActive?"text-white":"text-primary",attrs:{ca
 [t._v("Certifications")]),
 i("q-item",{staticClass:"list-item",class:t.$q.dark.isActive?"bg-primary":""},
 
-[i("q-item-section",{attrs:{avatar:""}},[i("q-icon",{attrs:{color:"primary",
+[
+i("q-item-section",{attrs:{avatar:""}},[i("q-icon",{attrs:{color:"primary",
 size:"100px",name:"img:statics/icons/udemy.jpeg"}})],1),
 i("q-item-section",[i("q-item-label",{staticClass:"text-accent text-h4"},
 [t._v("Beginner to Expert for Web Development")]),
@@ -112,8 +113,18 @@ attrs:{caption:""}},[t._v("Combination of 9 Professional Certification Courses")
 i("q-item-section",{attrs:{side:"",top:""}},[i("q-item-label",{staticClass:"text-warning",attrs:{caption:""}},
 [t._v("2019")])],1)],1),
 
-i("q-separator",{attrs:{dark:"",spaced:"",inset:""}}),i("q-item",
-{staticClass:"list-item",class:t.$q.dark.isActive?"bg-primary":""},
+i("q-separator",{attrs:{dark:"",spaced:"",inset:""}}),
+i("q-item",{staticClass:"list-item",class:t.$q.dark.isActive?"bg-primary":""},
+[i("q-item-section",{attrs:{avatar:""}},[i("q-icon",{
+attrs:{color:"primary",size:"100px",name:"img:statics/icons/uow.png"}})],1),i("q-item-section",[i("q-item-label",
+{staticClass:"text-accent text-h4"},[t._v("Machine Learning Foundations: A Case Study Approach")]),i("q-item-label",{staticClass:"text-secondary text-h6"},
+[t._v("University of Washington")]),i("q-item-label",{class:t.$q.dark.isActive?"text-white":"text-primary",
+attrs:{caption:""}},[t._v("5MZ76GNGKKTZ")])],1),
+i("q-item-section",{attrs:{side:"",top:""}},[i("q-item-label",{staticClass:"text-warning",attrs:{caption:""}},
+[t._v("May 2019")])],1)],1),
+
+i("q-separator",{attrs:{dark:"",spaced:"",inset:""}}),
+i("q-item",{staticClass:"list-item",class:t.$q.dark.isActive?"bg-primary":""},
 [i("q-item-section",{attrs:{avatar:""}},[i("q-icon",{
 attrs:{color:"primary",size:"100px",name:"img:statics/icons/stanford.png"}})],1),i("q-item-section",[i("q-item-label",
 {staticClass:"text-accent text-h4"},[t._v("Algorithms specialization")]),i("q-item-label",{staticClass:"text-secondary text-h6"},
@@ -121,7 +132,68 @@ attrs:{color:"primary",size:"100px",name:"img:statics/icons/stanford.png"}})],1)
 attrs:{caption:""}},[t._v("ACDQF438S54R")])],1),
 i("q-item-section",{attrs:{side:"",top:""}},[i("q-item-label",{staticClass:"text-warning",attrs:{caption:""}},
 [t._v("April 2020")])],1)],1),
+
+i("q-separator",{attrs:{dark:"",spaced:"",inset:""}}),
+i("q-item",{staticClass:"list-item",class:t.$q.dark.isActive?"bg-primary":""},
+[i("q-item-section",{attrs:{avatar:""}},[i("q-icon",{
+attrs:{color:"primary",size:"100px",name:"img:statics/icons/dl.png"}})],1),i("q-item-section",[i("q-item-label",
+{staticClass:"text-accent text-h4"},[t._v("Deep Learning Specialization")]),i("q-item-label",{staticClass:"text-secondary text-h6"},
+[t._v("deeplearning.ai")]),i("q-item-label",{class:t.$q.dark.isActive?"text-white":"text-primary",
+attrs:{caption:""}},[t._v("2MEVNG83EVR2")])],1),
+i("q-item-section",{attrs:{side:"",top:""}},[i("q-item-label",{staticClass:"text-warning",attrs:{caption:""}},
+[t._v("Oct 2019")])],1)],1),
+
+i("q-separator",{attrs:{dark:"",spaced:"",inset:""}}),
+i("q-item",{staticClass:"list-item",class:t.$q.dark.isActive?"bg-primary":""},
+[i("q-item-section",{attrs:{avatar:""}},[i("q-icon",{
+attrs:{color:"primary",size:"100px",name:"img:statics/icons/uom.png"}})],1),i("q-item-section",[i("q-item-label",
+{staticClass:"text-accent text-h4"},[t._v("Using Python to Access Web Data")]),i("q-item-label",{staticClass:"text-secondary text-h6"},
+[t._v("University of Michigan")]),i("q-item-label",{class:t.$q.dark.isActive?"text-white":"text-primary",
+attrs:{caption:""}},[t._v("CHHP56T29UJ4")])],1),
+i("q-item-section",{attrs:{side:"",top:""}},[i("q-item-label",{staticClass:"text-warning",attrs:{caption:""}},
+[t._v("Nov 2019")])],1)],1),
+
+i("q-separator",{attrs:{dark:"",spaced:"",inset:""}}),
+i("q-item",{staticClass:"list-item",class:t.$q.dark.isActive?"bg-primary":""},
+[i("q-item-section",{attrs:{avatar:""}},[i("q-icon",{
+attrs:{color:"primary",size:"100px",name:"img:statics/icons/giot.jpg"}})],1),i("q-item-section",[i("q-item-label",
+{staticClass:"text-accent text-h4"},[t._v("Positive Psychology")]),i("q-item-label",{staticClass:"text-secondary text-h6"},
+[t._v("Georgia Institute of Technology")]),i("q-item-label",{class:t.$q.dark.isActive?"text-white":"text-primary",
+attrs:{caption:""}},[t._v("6SMM9VJJC6BP")])],1),
+i("q-item-section",{attrs:{side:"",top:""}},[i("q-item-label",{staticClass:"text-warning",attrs:{caption:""}},
+[t._v("Nov 2019")])],1)],1),
     
+i("q-separator",{attrs:{dark:"",spaced:"",inset:""}}),
+i("q-item",{staticClass:"list-item",class:t.$q.dark.isActive?"bg-primary":""},
+[i("q-item-section",{attrs:{avatar:""}},[i("q-icon",{
+attrs:{color:"primary",size:"100px",name:"img:statics/icons/chapelHill.jpeg"}})],1),i("q-item-section",[i("q-item-label",
+{staticClass:"text-accent text-h4"},[t._v("Write Professional Emails in English")]),i("q-item-label",{staticClass:"text-secondary text-h6"},
+[t._v("The University of North Carolina at Chapel Hill")]),i("q-item-label",{class:t.$q.dark.isActive?"text-white":"text-primary",
+attrs:{caption:""}},[t._v("7LMQN32PFEHJ")])],1),
+i("q-item-section",{attrs:{side:"",top:""}},[i("q-item-label",{staticClass:"text-warning",attrs:{caption:""}},
+[t._v("Aug 2020")])],1)],1),
+    
+i("q-separator",{attrs:{dark:"",spaced:"",inset:""}}),
+i("q-item",{staticClass:"list-item",class:t.$q.dark.isActive?"bg-primary":""},
+[i("q-item-section",{attrs:{avatar:""}},[i("q-icon",{
+attrs:{color:"primary",size:"100px",name:"img:statics/icons/yonsei.jpg"}})],1),i("q-item-section",[i("q-item-label",
+{staticClass:"text-accent text-h4"},[t._v("Wireless Communications for Everybody")]),i("q-item-label",{staticClass:"text-secondary text-h6"},
+[t._v("Yonsei University")]),i("q-item-label",{class:t.$q.dark.isActive?"text-white":"text-primary",
+attrs:{caption:""}},[t._v("9BK9MV2FXSSB")])],1),
+i("q-item-section",{attrs:{side:"",top:""}},[i("q-item-label",{staticClass:"text-warning",attrs:{caption:""}},
+[t._v("Sep 2020")])],1)],1),
+
+i("q-separator",{attrs:{dark:"",spaced:"",inset:""}}),
+i("q-item",{staticClass:"list-item",class:t.$q.dark.isActive?"bg-primary":""},
+[i("q-item-section",{attrs:{avatar:""}},[i("q-icon",{
+attrs:{color:"primary",size:"100px",name:"img:statics/icons/gcloud.png"}})],1),i("q-item-section",[i("q-item-label",
+{staticClass:"text-accent text-h4"},[t._v("Google Cloud Platform Fundamentals: Core Infrastructure")]),i("q-item-label",{staticClass:"text-secondary text-h6"},
+[t._v("Google Cloud")]),i("q-item-label",{class:t.$q.dark.isActive?"text-white":"text-primary",
+attrs:{caption:""}},[t._v("FZV7NT9CKELA")])],1),
+i("q-item-section",{attrs:{side:"",top:""}},[i("q-item-label",{staticClass:"text-warning",attrs:{caption:""}},
+[t._v("Nov 2019")])],1)],1),
+
+
 i("q-separator",{attrs:{dark:"",spaced:"",inset:""}}),i("q-item",
 {staticClass:"list-item",class:t.$q.dark.isActive?"bg-primary":""},
 [i("q-item-section",{attrs:{avatar:""}},[i("q-icon",{attrs:{color:"primary",
@@ -211,8 +283,10 @@ n={name:"Education",data:function(){
     {name:"Self Motivation",issued:"Dec 2020",icon:"img:statics/icons/linkedin.png",authority:"LinkedIn"}
 
 ]}}},  
-    c=n,r=(i("1475"),i("2877")),o=i("eebe"),l=i.n(o),m=i("9989"),d=i("1c1c"),p=i("0170"),q=i("66e5"),g=i("4074"),x=i("0016"),h=i("eb85"), 
-    v=Object(r["a"])(c,a,s,!1,null,"e7bcce52",null);e["default"]=v.exports;l()(v,"components",{QPage:m["a"],QList:d["a"],
+    c=n,r=(i("1475"),i("2877")),o=i("eebe"),l=i.n(o),m=i("9989"),d=i("1c1c"),
+    p=i("0170"),q=i("66e5"),g=i("4074"),x=i("0016"),h=i("eb85"), 
+    v=Object(r["a"])(c,a,s,!1,null,"e7bcce52",null);e["default"]=v.exports;
+    l()(v,"components",{QPage:m["a"],QList:d["a"],
     QItemLabel:p["a"],QItem:q["a"],QItemSection:g["a"],QIcon:x["a"],QSeparator:h["a"]
 
 })}}]);
