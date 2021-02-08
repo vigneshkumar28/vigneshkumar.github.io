@@ -193,6 +193,25 @@ attrs:{caption:""}},[t._v("FZV7NT9CKELA")])],1),
 i("q-item-section",{attrs:{side:"",top:""}},[i("q-item-label",{staticClass:"text-warning",attrs:{caption:""}},
 [t._v("Nov 2019")])],1)],1),
 
+i("q-separator",{attrs:{dark:"",spaced:"",inset:""}}),
+i("q-item",{staticClass:"list-item",class:t.$q.dark.isActive?"bg-primary":""},
+[i("q-item-section",{attrs:{avatar:""}},[i("q-icon",{
+attrs:{color:"primary",size:"100px",name:"img:statics/icons/aau.png"}})],1),i("q-item-section",[i("q-item-label",
+{staticClass:"text-accent text-h4"},[t._v("Hello Bot: Introduction to RPA")]),i("q-item-label",{staticClass:"text-secondary text-h6"},
+[t._v("Automation Anywhere University")]),i("q-item-label",{class:t.$q.dark.isActive?"text-white":"text-primary",
+attrs:{caption:""}},[t._v("637483446429847159")])],1),
+i("q-item-section",{attrs:{side:"",top:""}},[i("q-item-label",{staticClass:"text-warning",attrs:{caption:""}},
+[t._v("Sep 2018")])],1)],1),
+
+i("q-separator",{attrs:{dark:"",spaced:"",inset:""}}),
+i("q-item",{staticClass:"list-item",class:t.$q.dark.isActive?"bg-primary":""},
+[i("q-item-section",{attrs:{avatar:""}},[i("q-icon",{
+attrs:{color:"primary",size:"100px",name:"img:statics/icons/aau.png"}})],1),i("q-item-section",[i("q-item-label",
+{staticClass:"text-accent text-h4"},[t._v("Break the ICE: An introduction to creating your first bot")]),i("q-item-label",{staticClass:"text-secondary text-h6"},
+[t._v("Automation Anywhere University")]),i("q-item-label",{class:t.$q.dark.isActive?"text-white":"text-primary",
+attrs:{caption:""}},[t._v("637483450126498803")])],1),
+i("q-item-section",{attrs:{side:"",top:""}},[i("q-item-label",{staticClass:"text-warning",attrs:{caption:""}},
+[t._v("Sep 2018")])],1)],1),
 
 i("q-separator",{attrs:{dark:"",spaced:"",inset:""}}),i("q-item",
 {staticClass:"list-item",class:t.$q.dark.isActive?"bg-primary":""},
