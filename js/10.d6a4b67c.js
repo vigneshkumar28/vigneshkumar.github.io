@@ -134,7 +134,7 @@
         //{name:"J2EE",value:75},{name:"Spring boot",value:75},
         //{name:"Spring Reactive",value:75},{name:"Django",value:50},
         {name:"UX / UI",value:90},{name:"Algorithms",value:90},
-        {name:"Datastructures",value:90},{name:"Design Patterns",value:90},
+        {name:"Datastructures",value:90},//{name:"Design Patterns",value:90},
         {name:"Data Science / Data Analytics",value:60},
         {name:"Machine Learning / AI",value:70},
         {name:"Microsoft Office (Excel, PPT, Word)",value:90},
@@ -171,7 +171,7 @@
         {name:"Very Large Scale Integration (VLSI) Design",value:70},
         {name:"Application Specific Integrated Circuit (ASIC)",value:60},
         {name:"Antenna and Wave Propagation (AWP)",value:80},
-        {name:"Painting / Sketching",value:90},
+        
         ]}
     
     
