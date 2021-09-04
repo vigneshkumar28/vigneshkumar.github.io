@@ -37,7 +37,7 @@
                                 [
                                   i("q-avatar", {
                                     attrs: {
-                                      icon: "img:statics/icons/github.png",
+                                      icon: "img:statics/icons/accenture.png",
                                       size: "100px",
                                       color: e.$q.dark.isActive
                                         ? "primary"
@@ -57,7 +57,7 @@
                                       staticClass:
                                         "text-warning text-bold text-h5",
                                     },
-                                    [e._v("GitHub")]
+                                    [e._v("Accenture")]
                                   ),
                                   i(
                                     "q-item-label",
@@ -65,7 +65,7 @@
                                       staticClass:
                                         "text-bold text-accent text-h6",
                                     },
-                                    [e._v("Developer Program member")]
+                                    [e._v("Application Development Associate")]
                                   ),
                                   i(
                                     "q-item-label",
@@ -73,7 +73,7 @@
                                       staticClass: "text-bold",
                                       attrs: { caption: "" },
                                     },
-                                    [e._v("Jan 2021 to present")]
+                                    [e._v("Jun 2021 to present")]
                                   ),
                                 ],
                                 1
@@ -99,9 +99,9 @@
                             },
                             [
                               i("ul", [
-                                i("li", [e._v(" Pro in GitHub")]),
+                                i("li", [e._v(" Java Developer")]),
                                 i("li", [
-                                  e._v(" Arctic Code Vault Contributor"),
+                                  e._v(" Associate Software Engineer ASE"),
                                 ]),
                               ]),
                             ]
@@ -113,6 +113,200 @@
                     1
                   ),
 
+                  i("q-separator", {
+                    attrs: { spaced: "", dark: e.$q.dark.isActive },
+                  }),
+                  i(
+                    "q-expansion-item",
+                    {
+                      class: e.$q.dark.isActive ? "bg-primary" : "",
+                      attrs: { "header-class": "list-item" },
+                      scopedSlots: e._u([
+                        {
+                          key: "header",
+                          fn: function () {
+                            return [
+                              i(
+                                "q-item-section",
+                                { attrs: { avatar: "" } },
+                                [
+                                  i("q-avatar", {
+                                    attrs: {
+                                      icon: "img:statics/icons/wipro.png",
+                                      size: "100px",
+                                      color: e.$q.dark.isActive
+                                        ? "primary"
+                                        : "",
+                                      "text-color": "white",
+                                    },
+                                  }),
+                                ],
+                                1
+                              ),
+
+                              i(
+                                "q-item-section",
+                                [
+                                  i(
+                                    "q-item-label",
+                                    {
+                                      staticClass:
+                                        "text-warning text-bold text-h5",
+                                    },
+                                    [e._v("Wipro")]
+                                  ),
+                                  i(
+                                    "q-item-label",
+                                    {
+                                      staticClass:
+                                        "text-bold text-accent text-h6",
+                                    },
+                                    [e._v("Setup Configuration Specialist")]
+                                  ),
+                                  i(
+                                    "q-item-label",
+                                    {
+                                      staticClass: "text-bold",
+                                      attrs: { caption: "" },
+                                    },
+                                    [e._v("Mar 2021 to Jun 2021")]
+                                  ),
+                                ],
+                                1
+                              ),
+                            ];
+                          },
+                          proxy: !0,
+                        },
+                      ]),
+                    },
+
+                    [
+                      i("q-separator", { attrs: { dark: e.$q.dark.isActive } }),
+                      i(
+                        "q-card",
+                        [
+                          i(
+                            "q-card-section",
+                            {
+                              class: e.$q.dark.isActive
+                                ? "bg-primary"
+                                : "text-primary",
+                            },
+                            [
+                              i("ul", [
+                                i("li", [e._v("Databases")]),
+                                i("li", [e._v("SQL")]),
+                                i("li", [e._v("Bluezone")]),
+                                i("li", [e._v("CISC")]),
+                                i("li", [e._v("TBA 3.x ,TBA 4.x and more...")]),
+                              ]),
+                            ]
+                          ),
+                        ],
+                        1
+                      ),
+                    ],
+                    1
+                  ),
+                  // github
+                  i("q-separator", {
+                    attrs: { spaced: "", dark: e.$q.dark.isActive },
+                  }),
+                  i(
+                    "q-expansion-item",
+                    {
+                      class: e.$q.dark.isActive ? "bg-primary" : "",
+                      attrs: { "header-class": "list-item" },
+                      scopedSlots: e._u([
+                        {
+                          key: "header",
+                          fn: function () {
+                            return [
+                              i(
+                                "q-item-section",
+                                { attrs: { avatar: "" } },
+                                [
+                                  i("q-avatar", {
+                                    attrs: {
+                                      icon: "img:statics/icons/github.png",
+                                      size: "100px",
+                                      color: e.$q.dark.isActive
+                                        ? "primary"
+                                        : "",
+                                      "text-color": "white",
+                                    },
+                                  }),
+                                ],
+                                1
+                              ),
+
+                              i(
+                                "q-item-section",
+                                [
+                                  i(
+                                    "q-item-label",
+                                    {
+                                      staticClass:
+                                        "text-warning text-bold text-h5",
+                                    },
+                                    [e._v("GitHub")]
+                                  ),
+                                  i(
+                                    "q-item-label",
+                                    {
+                                      staticClass:
+                                        "text-bold text-accent text-h6",
+                                    },
+                                    [e._v("Developer Program Member")]
+                                  ),
+                                  i(
+                                    "q-item-label",
+                                    {
+                                      staticClass: "text-bold",
+                                      attrs: { caption: "" },
+                                    },
+                                    [e._v("Jan 2021 to Apr 2021")]
+                                  ),
+                                ],
+                                1
+                              ),
+                            ];
+                          },
+                          proxy: !0,
+                        },
+                      ]),
+                    },
+
+                    [
+                      i("q-separator", { attrs: { dark: e.$q.dark.isActive } }),
+                      i(
+                        "q-card",
+                        [
+                          i(
+                            "q-card-section",
+                            {
+                              class: e.$q.dark.isActive
+                                ? "bg-primary"
+                                : "text-primary",
+                            },
+                            [
+                              i("ul", [
+                                i("li", [e._v("Pro in GitHub")]),
+                                i("li", [
+                                  e._v("Arctic Code Vault Contributor"),
+                                ]),
+                                i("li", [e._v("GitHub Student Developer")]),
+                              ]),
+                            ]
+                          ),
+                        ],
+                        1
+                      ),
+                    ],
+                    1
+                  ),
+                  //smartknower
                   i("q-separator", {
                     attrs: { spaced: "", dark: e.$q.dark.isActive },
                   }),
@@ -169,7 +363,7 @@
                                       staticClass: "text-bold",
                                       attrs: { caption: "" },
                                     },
-                                    [e._v("Jan 2020 to Present")]
+                                    [e._v("Jan 2020 to Mar 2021")]
                                   ),
                                 ],
                                 1

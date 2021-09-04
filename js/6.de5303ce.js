@@ -42,7 +42,7 @@
                     ? a("span", [e._v(" "), a("i", [e._v("")])])
                     : e._e(),
                   e._v("\n"),
-                  a("i", [e._v("textbook definition of a geek/techie. ")]),
+                  a("i", [e._v("He is geek/techie in nature. ")]),
                   e._v("He loves to "),
                   a("i", [
                     e._v(
@@ -98,9 +98,7 @@
                           [e._v("Motivator .Sounds Greater")]
                         ),
                         a("br"),
-                        e._v(
-                          "\n    ◉ Hope the positive, Surrounding is postive"
-                        ),
+                        e._v("\n    ◉ "),
                         a(
                           "i",
                           {
@@ -109,7 +107,19 @@
                               ? "text-white"
                               : "text-primary",
                           },
-                          [e._v("")]
+                          [e._v("Hope positive, Surrounding is postive")]
+                        ),
+                        a("br"),
+                        e._v("\n    ◉ "),
+                        a(
+                          "i",
+                          {
+                            staticClass: "text-left",
+                            class: e.$q.dark.isActive
+                              ? "text-white"
+                              : "text-primary",
+                          },
+                          [e._v("Error + Learn = Create new world")]
                         ),
                       ])
                     : a("span", [
@@ -132,9 +142,7 @@
                               ),
                             ]),
                             a("li", [
-                              e._v(
-                                "Looking for jobs. Ready to start work immediately.🙋‍♂️👋👋👋"
-                              ),
+                              e._v("Ready to work immediately.🙋‍♂️👋👋👋"),
                             ]),
                             a("li", [
                               e._v(
@@ -193,7 +201,7 @@
                             ]),
                             a("li", [
                               e._v(
-                                "LinkedIn profile👨‍🎓: https://www.linkedin.com/in/vigneshkumar-r-870179179 "
+                                "LinkedIn profile👨‍🎓: https://www.linkedin.com/in/vigneshkumar-r "
                               ),
                             ]),
                             a("li", [

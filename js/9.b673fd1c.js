@@ -81,10 +81,10 @@
             return {
               projects: [
                 {
-                  name: "this.",
+                  name: "this website",
                   date: "April 2020",
                   desc: "Designed and developed my personal portfolio website",
-                  link: "https://vigneshkumar28.github.io/vigneshkumar.github.io/#/",
+                  link: "http://vigneshkumarradhakrishnan.unaux.com/#/",
                   img: "statics/website.png",
                 },
 
@@ -92,21 +92,21 @@
                   name: "IoT based intelligent Gas Leakage Detection and Leak Point Location system",
                   date: "Feb 2020",
                   desc: "Arduino IDE, IBM Watson, Node-Red,...",
-                  link: "https://www.linkedin.com/in/vigneshkumar-r-870179179/",
+                  link: "https://www.linkedin.com/in/vigneshkumar-r/",
                   img: "statics/iot.jpg",
                 },
                 {
                   name: "Fake currency identification using MATLAB and Image processing techniques",
                   date: "March 2020",
                   desc: "MATLAB and Watson AutoAI.",
-                  link: "https://www.linkedin.com/in/vigneshkumar-r-870179179/",
+                  link: "https://www.linkedin.com/in/vigneshkumar-r/",
                   img: "statics/curr.jpg",
                 },
                 {
                   name: "Future Rate of Bitcoin Prediciton using Machine Learning Model",
                   date: "Jan 2021 - Present",
                   desc: "Google Colabs",
-                  link: "https://www.linkedin.com/in/vigneshkumar-r-870179179/",
+                  link: "https://www.linkedin.com/in/vigneshkumar-r/",
                   img: "statics/btc.png",
                 },
 
@@ -122,7 +122,7 @@
                   name: "Refer LinkedIn for my remaining projects with detailed report",
                   date: "Jun 2018 - Present",
                   desc: "Collection of all the rest of my projects that live on LinkedIn",
-                  link: "https://www.linkedin.com/in/vigneshkumar-r-870179179/",
+                  link: "https://www.linkedin.com/in/vigneshkumar-r",
                   img: "statics/projLink.PNG",
                 },
               ],

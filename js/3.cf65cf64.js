@@ -271,7 +271,7 @@
                               staticClass:
                                 "text-center text-bold text-secondary q-mt-md full-width text-h5",
                             },
-                            [t._v("VigneshKumar R")]
+                            [t._v("VigneshKumar Radhakrishnan")]
                           ),
                           a(
                             "div",
@@ -495,6 +495,9 @@
                 "Backend developer",
                 "IOT Developer",
                 "Artificial Intelligence developer",
+                "Application Development Associate",
+                "Java Developer",
+                "Associate Software Engineer ASE",
               ],
               essentialLinks: [
                 {
