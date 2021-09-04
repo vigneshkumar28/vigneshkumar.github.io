@@ -1,22 +1,38 @@
 <template>
   <q-page class="flex exp-page q-py-md q-px-xl">
     <q-list :dark="$q.dark.isActive" class="full-width q-mt-xl">
-      <q-expansion-item header-class="list-item" :class="$q.dark.isActive ? 'bg-primary' : ''">
+      <q-expansion-item
+        header-class="list-item"
+        :class="$q.dark.isActive ? 'bg-primary' : ''"
+      >
         <template v-slot:header>
           <q-item-section avatar>
-            <q-avatar icon="img:statics/icons/newton.png" size="100px" :color="$q.dark.isActive ? 'primary' : ''" text-color="white" />
+            <q-avatar
+              icon="img:statics/icons/newton.png"
+              size="100px"
+              :color="$q.dark.isActive ? 'primary' : ''"
+              text-color="white"
+            />
           </q-item-section>
           <q-item-section>
-            <q-item-label class="text-warning text-bold text-h5">Newton School</q-item-label>
-            <q-item-label class="text-bold text-accent text-h6">Placement Training</q-item-label>
-            <q-item-label caption class="text-bold">Jan 2021 to present</q-item-label>
+            <q-item-label class="text-warning text-bold text-h5"
+              >Newton School</q-item-label
+            >
+            <q-item-label class="text-bold text-accent text-h6"
+              >Placement Training</q-item-label
+            >
+            <q-item-label caption class="text-bold"
+              >Jan 2021 to present</q-item-label
+            >
           </q-item-section>
         </template>
         <q-separator :dark="$q.dark.isActive" />
         <q-card>
-          <q-card-section :class="$q.dark.isActive ? 'bg-primary' : 'text-primary'">
+          <q-card-section
+            :class="$q.dark.isActive ? 'bg-primary' : 'text-primary'"
+          >
             <ul>
-              <li> Full stack developer live Training</li>
+              <li>Full stack developer live Training</li>
             </ul>
           </q-card-section>
         </q-card>
@@ -27,8 +43,8 @@
 
 <script>
 export default {
-  name: 'Experience'
-}
+  name: "Experience",
+};
 </script>
 <style lang="scss" scoped>
 ul {
