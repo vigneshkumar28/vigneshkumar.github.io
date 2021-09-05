@@ -316,6 +316,16 @@
                 ],
                 1
               ),
+
+              a(
+                "h6",
+                {
+                  staticClass:
+                    "text-secondary col-12 text-bold text-center q-mb-none",
+                },
+                [t._v("Click Menu button at top left corner")]
+              ),
+
               a("footer-link"),
             ],
             1

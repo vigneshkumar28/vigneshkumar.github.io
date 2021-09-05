@@ -25,3 +25,48 @@ a[data-v-6d3ec87a]:hover {
 .toggle-btn[data-v-204ea7c1] .q-toggle__label {
   font-weight: 700;
 }
+
+.neon-light {
+  width: 15px;
+  height: 500px;
+  background: #fff;
+  border-radius: 15px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  box-shadow: 0 0 40px 5px #fff, inset 0 0 20px #fff, 0 0 160px 20px #08f,
+    inset 0 0 20px #08f, 0 0 320px 30px #08f, inset 0 0 20px #08f;
+  animation: run 5s linear infinite;
+}
+
+@keyframes run {
+  0% {
+    left: 10%;
+    opacity: 0;
+  }
+  2% {
+    left: 10%;
+    opacity: 1;
+  }
+  4% {
+    left: 10%;
+    opacity: 0;
+  }
+  6% {
+    left: 10%;
+    opacity: 1;
+  }
+  8% {
+    left: 10%;
+    opacity: 0;
+  }
+  10% {
+    left: 10%;
+    opacity: 1;
+  }
+  100% {
+    left: 90%;
+    opacity: 1;
+  }
+}
